@@ -4,7 +4,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 ## Instructions
 
-### Task 1: Project Set Up
+### Task 1: Project Set Up 
 
 #### Set Up The Project With Git
 
